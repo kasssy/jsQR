@@ -1,0 +1,2 @@
+# jsQR
+to use jsQR
